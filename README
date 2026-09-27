@@ -1,0 +1,51 @@
+
+📈 Netflix Stock Dashboard
+
+📌 Project Overview
+
+This project is an interactive Power BI dashboard created to analyze Netflix stock market performance. It provides a clear view of stock prices, trading volume, and market trends over different time periods.
+
+🎯 Objectives
+
+- Analyze Netflix stock price movements
+- Compare Open, High, Low, and Close prices
+- Analyze trading volume over time
+- Track stock trends using interactive charts
+- Filter data by date and year
+
+🛠️ Tools & Technologies
+
+- Power BI
+- Power Query
+- DAX
+- Microsoft Excel / CSV Dataset
+
+📊 Dashboard Features
+
+- KPI cards for stock price analysis
+- Open, High, Low, and Close price analysis
+- Trading volume visualization
+- Stock price trend analysis
+- Date range slicer
+- Year slicer
+- Interactive charts and filters
+
+📈 Key Visualizations
+
+- Average Open Price
+- Maximum High Price
+- Minimum Low Price
+- Average Close Price
+- Trading Volume by Date
+- Stock Price Trend
+- Date and Year Filters
+
+📂 Project Files
+
+- "Netflix Stock Dashboard.pbix" – Power BI dashboard
+- "Netflix Stock Dataset.csv" – Dataset used for analysis
+- "README.md" – Project documentation
+
+💡 Conclusion
+
+The Netflix Stock Dashboard provides an interactive and easy-to-understand view of Netflix stock performance. It helps users explore stock price trends and trading volume using different dates and time periods.
